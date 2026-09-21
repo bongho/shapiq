@@ -4,7 +4,7 @@
 
 ### Additional new Features
 
-- adds the `LinearGaussianSCM` and `ConfoundedChainSCM` synthetic games in `shapiq_games.synthetic`, which evaluate the marginal, the conditional, and the causal (Heskes et al., 2020) value function in closed form on one and the same linear-Gaussian data-generating process. [#TBD](https://github.com/mmschlk/shapiq/pull/TBD)
+- adds the `LinearGaussianSCM` and `ConfoundedChainSCM` synthetic games in `shapiq_games.synthetic`, which evaluate the marginal, the conditional, and the causal (Heskes et al., 2020) value function in closed form on one and the same linear-Gaussian data-generating process. [#600](https://github.com/mmschlk/shapiq/pull/600)
 
 ## v1.7.0 (2026-08-27)
 
